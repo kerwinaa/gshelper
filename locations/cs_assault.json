@@ -1,0 +1,500 @@
+[
+    {
+      "name": ["Red Car", "assault redcar"],
+      "weapon": "weapon_molotov",
+      "position": [4856.6870117188, 4586.8989257813, -865.96246337891],
+      "viewangles": [-8.2426996231079, -49.91752243042],
+      "grenade": {
+        "fov": 5.12,
+        "run": 8
+      }
+    },
+    {
+      "name": ["Street", "assalut ct start"],
+      "weapon": "weapon_molotov",
+      "position": [6295.33203125, 5336.3295898438, -871.96875],
+      "viewangles": [-2.6576404571533, 36.830375671387],
+      "grenade": {
+        "run": 37,
+        "recovery_jump": true,
+        "recovery_yaw": 90,
+        "jump": true
+      }
+    },
+    {
+      "name": ["CT Start", "assault jd"],
+      "description": "fakeduck",
+      "weapon": "weapon_molotov",
+      "position": [6310.9814453125, 6201.205078125, -863.96875],
+      "viewangles": [-2.4112281799316, -34.310348510742],
+      "grenade": {
+        "run": 23,
+        "recovery_jump": true,
+        "recovery_yaw": -90,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Front Entrance", "assault tz"],
+      "description": "down",
+      "weapon": "weapon_molotov",
+      "position": [6622.4096679688, 4863.0268554688, -863.96875],
+      "viewangles": [-57.129581451416, 149.87362670898]
+    },
+    {
+      "name": ["Front Entrance", "assault xiepo"],
+      "description": "UNSAFE",
+      "weapon": "weapon_molotov",
+      "position": [6401.7060546875, 4651.8349609375, -868.01574707031],
+      "viewangles": [-1.4784245491028, 174.47822570801],
+      "grenade": {
+        "run": 9,
+        "recovery_jump": true,
+        "recovery_yaw": -90,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Front Entrace", "assault xiepo"],
+      "weapon": "weapon_molotov",
+      "position": [6496.0966796875, 4698.99609375, -863.96875],
+      "viewangles": [-9.6800146102905, 153.76370239258],
+      "grenade": {
+        "run": 14,
+        "run_yaw": 90
+      }
+    },
+    {
+      "name": ["Unnamed", "assault redcar"],
+      "weapon": "weapon_molotov",
+      "position": [6247.1689453125, 4428.5126953125, -870.64611816406],
+      "viewangles": [-21.192554473877, -149.66262817383],
+      "grenade": {
+        "fov": 5.12
+      }
+    },
+    {
+      "name": ["Unnamed", "assault yt CC"],
+      "weapon": "weapon_molotov",
+      "position": [6247.1689453125, 4428.5126953125, -870.64611816406],
+      "viewangles": [-32.102272033691, -118.99373947144],
+      "grenade": {
+        "fov": 5.12
+      }
+    },
+    {
+      "name": ["Unnamed", "assault lc"],
+      "weapon": "weapon_molotov",
+      "position": [6247.1689453125, 4428.5126953125, -870.64611816406],
+      "viewangles": [-52.66813659668, -131.89321899414],
+      "grenade": {
+        "fov": 5.12
+      }
+    },
+    {
+      "name": ["wheels", "assault luntai"],
+      "weapon": "weapon_molotov",
+      "position": [4896.8408203125, 4498.3706054688, -606.92358398438],
+      "viewangles": [-9.984527, -14.2949562]
+    },
+    {
+      "name": ["car", "assault lc"],
+      "weapon": "weapon_hegrenade",
+      "position": [5028.0229492188, 4440.9384765625, -607.96875],
+      "viewangles": [-2.1230280399323, -39.254619598389],
+      "grenade": {
+        "run": 3
+      }
+    },
+    {
+      "name": ["barrels5", "assault yt"],
+      "weapon": "weapon_molotov",
+      "position": [5028.03125, 4649.0180664063, -606.96875],
+      "viewangles": [-16.6097164, -49.9198837]
+    },
+    {
+      "name": ["barrels2", "assault yt"],
+      "weapon": "weapon_molotov",
+      "position": [5018.283203125, 4495.9526367188, -607.92358398438],
+      "viewangles": [-7.3151273727417, -53.057250976563],
+      "grenade": {
+        "run": 1
+      }
+    },
+    {
+      "name": ["barrels", "assault yt"],
+      "weapon": "weapon_molotov",
+      "position": [5036.802734375, 4759.564453125, -831.96875],
+      "viewangles": [-5.9772686958313, -53.019989013672],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["wheels2", "assault luntai"],
+      "weapon": "weapon_molotov",
+      "position": [5037.9375, 4631.5087890625, -843.20446777344],
+      "viewangles": [-19.9100952, -17.0695686],
+      "grenade": {
+        "run": 12
+      }
+    },
+    {
+      "name": ["car2", "assault lc"],
+      "weapon": "weapon_hegrenade",
+      "position": [5042.7768554688, 4356.4990234375, -862.96875],
+      "viewangles": [-25.3001518, -37.5547],
+      "grenade": {
+        "run": 3
+      }
+    },
+    {
+      "name": ["barrels3", "assault yt"],
+      "weapon": "weapon_molotov",
+      "position": [5801.7763671875, 4481.7666015625, -872.96875],
+      "viewangles": [-31.944973, -90.06384]
+    },
+    {
+      "name": ["car3", "assault lc"],
+      "weapon": "weapon_hegrenade",
+      "position": [5894.5209960938, 4422.2026367188, -874.79760742188],
+      "viewangles": [-36.553142547607, -86.629837036133],
+      "grenade": {
+        "run": 1,
+        "jump": true
+      },
+      "duck": true
+    },
+    {
+      "name": ["car3", "assault lc"],
+      "weapon": "weapon_molotov",
+      "position": [5862.8071289063, 4365.2265625, -872.96875],
+      "viewangles": [-51.01494, -86.11953]
+    },
+    {
+      "name": ["Unnamed", "assault aocao"],
+      "description": "UNSAFE",
+      "weapon": "weapon_molotov",
+      "position": [5625.1040039063, 5914.5805664063, -863.96875],
+      "viewangles": [4.2239990234375, 121.29202270508],
+      "grenade": {
+        "run": 39,
+        "recovery_jump": true,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "assault aocao"],
+      "description": "UNSAFE",
+      "weapon": "weapon_hegrenade",
+      "position": [5716.2622070313, 6030.9750976563, -863.96875],
+      "viewangles": [-11.541200637817, 160.38177490234],
+      "grenade": {
+        "run": 1,
+        "recovery_jump": true,
+        "recovery_yaw": 90
+      }
+    },
+    {
+      "name": ["Unnamed", "assault lc lt"],
+      "weapon": "weapon_molotov",
+      "position": [5049.2646484375, 4616.4536132813, -848.00018310547],
+      "viewangles": [1.2099734544754, -35.189479827881],
+      "grenade": {
+        "run": 14,
+        "recovery_yaw": -156,
+        "run_yaw": 55,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "assault lc lt"],
+      "weapon": "weapon_molotov",
+      "position": [4930.1157226563, 4494.8466796875, -607.92358398438],
+      "viewangles": [-10.480278015137, -19.955263137817],
+      "grenade": {
+        "run": 5,
+        "run_speed": true,
+        "run_yaw": 180
+      }
+    },
+    {
+      "name": ["Unnamed", "assault lc"],
+      "description": "unsafe",
+      "weapon": "weapon_hegrenade",
+      "position": [4940.1479492188, 4518.88671875, -607.92358398438],
+      "viewangles": [16.5246925354, -25.47102355957],
+      "grenade": {
+        "run": 1,
+        "run_speed": true,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "assault luntai"],
+      "description": "unsafe",
+      "weapon": "weapon_hegrenade",
+      "position": [4940.2353515625, 4518.83984375, -607.92358398438],
+      "viewangles": [14.599697113037, -15.326168060303],
+      "grenade": {
+        "run": 1,
+        "run_speed": true,
+        "delay": 2,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "assault luntai"],
+      "weapon": "weapon_hegrenade",
+      "position": [5050.8579101563, 4616.14453125, -848.07720947266],
+      "viewangles": [-9.3254241943359, -37.926120758057],
+      "grenade": {
+        "run": 12,
+        "recovery_jump": true,
+        "recovery_yaw": -171,
+        "run_yaw": 59
+      }
+    },
+    {
+      "name": ["Unnamed", "assault lc"],
+      "description": "unsafe",
+      "weapon": "weapon_hegrenade",
+      "position": [5128.857421875, 4596.0268554688, -853.150390625],
+      "viewangles": [-18.403022766113, -64.218154907227],
+      "grenade": {
+        "run": 17,
+        "recovery_jump": true,
+        "recovery_yaw": -172,
+        "run_yaw": 90
+      }
+    },
+    {
+      "name": ["Unnamed", "assault lc"],
+      "weapon": "weapon_molotov",
+      "position": [6339.0556640625, 4385.8076171875, -869.70190429688],
+      "viewangles": [-43.318199157715, -137.80731201172],
+      "grenade": {
+        "strength": 0.5,
+        "run": 4,
+        "run_speed": true
+      }
+    },
+    {
+      "name": ["Unnamed", "assault lc"],
+      "weapon": "weapon_hegrenade",
+      "position": [6339.1044921875, 4385.8564453125, -869.68725585938],
+      "viewangles": [-21.813213348389, -138.02770996094],
+      "grenade": {
+        "run": 2,
+        "run_yaw": 180
+      }
+    },
+    {
+      "name": ["Unnamed", "assault yt"],
+      "weapon": "weapon_hegrenade",
+      "position": [6247.0893554688, 4428.3588867188, -870.63671875],
+      "viewangles": [-29.253311157227, -126.0857925415]
+    },
+    {
+      "name": ["Unnamed", "assault jd"],
+      "weapon": "weapon_molotov",
+      "position": [6574.9692382813, 4352.0209960938, -863.96875],
+      "viewangles": [-5.9150242805481, 93.22737121582],
+      "grenade": {
+        "run": 11,
+        "delay": 6,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Wood boxes", "assault lc"],
+      "weapon": "weapon_molotov",
+      "position": [5066.787109375, 4664.0551757813, -835.96875],
+      "viewangles": [-20.780004501343, -28.330696105957],
+      "grenade": {
+        "run": 17,
+        "recovery_jump": true,
+        "recovery_yaw": -90
+      }
+    },
+    {
+      "name": ["Wood box", "assault lc"],
+      "weapon": "weapon_hegrenade",
+      "position": [5070.9067382813, 4656.9580078125, -837.78106689453],
+      "viewangles": [-15.095916748047, -28.223163604736],
+      "grenade": {
+        "run": 17,
+        "recovery_jump": true,
+        "recovery_yaw": -90
+      }
+    },
+    {
+      "name": ["Wood box", "assault lc"],
+      "description": "semi-safe",
+      "weapon": "weapon_hegrenade",
+      "position": [5070.958984375, 4656.9516601563, -837.78192138672],
+      "viewangles": [3.8285126686096, -28.039604187012],
+      "grenade": {
+        "run": 25,
+        "recovery_jump": true,
+        "recovery_yaw": -90,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Wood box", "assault lc"],
+      "description": "semi-safe",
+      "weapon": "weapon_molotov",
+      "position": [5071.0249023438, 4656.9716796875, -837.77819824219],
+      "viewangles": [3.8791103363037, -27.180328369141],
+      "grenade": {
+        "run": 25,
+        "recovery_jump": true,
+        "recovery_yaw": -90,
+        "jump": true
+      }
+    },
+    {
+      "name": ["here", "assault lc"],
+      "weapon": "weapon_molotov",
+      "position": [5942.6528320313, 4398.2724609375, -875.96875],
+      "viewangles": [-47.355792999268, -98.21167755127],
+      "grenade": {
+        "strength": 0.5
+      },
+      "duck": true
+    },
+    {
+      "name": ["here", "assault yt"],
+      "weapon": "weapon_molotov",
+      "position": [6175.1684570313, 4416.46875, -871.92028808594],
+      "viewangles": [-31.646883010864, -115.06634521484]
+    },
+    {
+      "name": ["here", "assault lc"],
+      "weapon": "weapon_molotov",
+      "position": [5625.8232421875, 4381.2021484375, -873.0341796875],
+      "viewangles": [-23.214233398438, -62.408496856689],
+      "duck": true
+    },
+    {
+      "name": ["here", "assault yt"],
+      "weapon": "weapon_hegrenade",
+      "position": [6148.841796875, 4448.78125, -872.88824462891],
+      "viewangles": [-29.640165328979, -115.860496521]
+    },
+    {
+      "name": ["here", "assault lc"],
+      "weapon": "weapon_hegrenade",
+      "position": [6125.0073242188, 4470.7553710938, -873.29431152344],
+      "viewangles": [-20.38032913208, -106.19560241699]
+    },
+    {
+      "name": ["Wood box", "assault yt"],
+      "description": "semi-safe",
+      "weapon": "weapon_molotov",
+      "position": [5036.173828125, 4702.6357421875, -831.96875],
+      "viewangles": [-1.0511683225632, -33.841979980469],
+      "grenade": {
+        "run": 40,
+        "recovery_jump": true,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Wood boxes", "assault yt"],
+      "description": "r",
+      "weapon": "weapon_molotov",
+      "position": [5025.3627929688, 4419.1396484375, -862.96875],
+      "viewangles": [-28.071603775024, -54.53694152832],
+      "grenade": {
+        "run": 2
+      }
+    },
+    {
+      "name": ["Unnamed", "assault yt"],
+      "weapon": "weapon_molotov",
+      "position": [4896.3725585938, 4639.4765625, -678.86077880859],
+      "viewangles": [-18.360195159912, -51.647518157959],
+      "grenade": {
+        "run": 9,
+        "run_speed": true
+      }
+    },
+    {
+      "name": ["Unnamed", "assault ljt"],
+      "description": "fakeduck",
+      "weapon": "weapon_molotov",
+      "position": [6338.7016601563, 6755.4018554688, -863.96875],
+      "viewangles": [-1.5398643016815, 22.072006225586],
+      "grenade": {
+        "run": 15,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "assault ljt"],
+      "description": "semi-safe",
+      "weapon": "weapon_molotov",
+      "position": [6385.51171875, 6651.6567382813, -863.96875],
+      "viewangles": [-15.399749755859, 59.802474975586],
+      "grenade": {
+        "run": 6,
+        "run_speed": true
+      }
+    },
+    {
+      "name": ["Unnamed", "assault ljt"],
+      "description": "fakeduck",
+      "weapon": "weapon_hegrenade",
+      "position": [6419.44921875, 6655.3090820313, -863.96875],
+      "viewangles": [6.0502524375916, 69.482490539551]
+    },
+    {
+      "name": ["Unnamed", "assault ljt"],
+      "description": "fakeduck",
+      "weapon": "weapon_molotov",
+      "position": [6414.578125, 6652.5595703125, -863.96875],
+      "viewangles": [6.1602516174316, 68.05233001709]
+    },
+    {
+      "name": ["Unnamed", "assault ljt"],
+      "weapon": "weapon_molotov",
+      "position": [6249.0546875, 6263.9418945313, -863.96875],
+      "viewangles": [-4.0697503089905, 67.39315032959]
+    },
+    {
+      "name": ["Unnamed", "assault ljt"],
+      "description": "unsafe",
+      "weapon": "weapon_molotov",
+      "position": [5724.0361328125, 6022.8227539063, -863.96875],
+      "viewangles": [-6.2697267532349, 159.90649414063],
+      "grenade": {
+        "run": 7,
+        "run_speed": true
+      }
+    },
+    {
+      "name": ["Unnamed", "assault ljt"],
+      "description": "unsafe",
+      "weapon": "weapon_hegrenade",
+      "position": [5687.548828125, 6036.6518554688, -863.96875],
+      "viewangles": [-5.719735622406, 159.93852233887],
+      "grenade": {
+        "recovery_jump": true,
+        "recovery_yaw": 90
+      }
+    },
+    {
+      "name": ["Unnamed", "assault ct start"],
+      "description": "fakeduck",
+      "weapon": "weapon_molotov",
+      "position": [6316.0375976563, 6414.9755859375, -871.96875],
+      "viewangles": [9.5152444839478, 162.43859863281],
+      "grenade": {
+        "run": 9,
+        "recovery_jump": true,
+        "jump": true
+      }
+    }
+  ]

@@ -1,0 +1,631 @@
+[
+  {
+    "name": ["Box", "bank baiche"],
+    "description": "fakeduck",
+    "weapon": "weapon_hegrenade",
+    "position": [-551.32421875, -255.59642028809, 147.95771789551],
+    "viewangles": [-3.5706372261047, -5.4862790107727],
+    "grenade": {
+      "run": 9
+    }
+  },
+  {
+    "name": ["Pillar", "bank baiche"],
+    "weapon": "weapon_hegrenade",
+    "position": [-25.877429962158, -814.41888427734, 190.46044921875],
+    "viewangles": [-0.57593309879303, 22.3173828125],
+    "duck": true
+  },
+  {
+    "name": ["Truck", "bank ggp"],
+    "weapon": "weapon_molotov",
+    "position": [970.89465332031, -388.31427001953, -27.260366439819],
+    "viewangles": [-32.156517028809, -156.95921325684],
+    "duck": true
+  },
+  {
+    "name": ["here", "bank ycc"],
+    "description": "L",
+    "weapon": "weapon_molotov",
+    "position": [-520.65985107422, -584.25836181641, 188.03125],
+    "viewangles": [8.657603263855, 2.8674876689911],
+    "grenade": {
+      "run": 20,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Left-Car", "bank l baiche"],
+    "description": "fakeduck",
+    "weapon": "weapon_molotov",
+    "position": [-1062.8155517578, -344.76284790039, 30.839721679688],
+    "viewangles": [4.2535920143127, 12.537452697754],
+    "grenade": {
+      "fov": 5.12,
+      "run": 26,
+      "jump": true
+    }
+  },
+  {
+    "name": ["BOMB", "bank site"],
+    "description": "pochuang",
+    "weapon": "weapon_molotov",
+    "position": [1107.7540283203, -333.48056030273, -26.993045806885],
+    "viewangles": [-9.6557970046997, 177.19026184082],
+    "grenade": {
+      "fov": 5.12,
+      "run": 21
+    }
+  },
+  {
+    "name": ["FBI car", "bank ycc"],
+    "description": "deep",
+    "weapon": "weapon_molotov",
+    "position": [-410.77087402344, -924.93975830078, 262.20211791992],
+    "viewangles": [12.8424616, 11.9762936],
+    "grenade": {
+      "run": 19,
+      "jump": true
+    }
+  },
+  {
+    "name": ["trash", "bank ljt"],
+    "description": "fakeduck",
+    "weapon": "weapon_molotov",
+    "position": [1112.7438964844, -1459.9997558594, -15.224891662598],
+    "viewangles": [-12.9076395, 18.9492188]
+  },
+  {
+    "name": ["FBI-Car", "bank ycc"],
+    "description": "l",
+    "weapon": "weapon_molotov",
+    "position": [311.95855712891, 681.62060546875, 60.034477233887],
+    "viewangles": [-8.361313, -42.9121323],
+    "grenade": {
+      "run": 8
+    }
+  },
+  {
+    "name": ["Fbi car", "bank ycc"],
+    "weapon": "weapon_molotov",
+    "position": [861.53833007813, -711.91387939453, -28.989002227783],
+    "viewangles": [-19.94764, 44.7251]
+  },
+  {
+    "name": ["FBI-Car", "bank ycc"],
+    "description": "deep",
+    "weapon": "weapon_molotov",
+    "position": [-101.96874237061, -576.77551269531, 189.03125],
+    "viewangles": [-9.593823, 1.86533523],
+    "grenade": {
+      "run": 3
+    }
+  },
+  {
+    "name": ["Unnamed", "bank ycc"],
+    "weapon": "weapon_molotov",
+    "position": [367.83340454102, -1930.6728515625, -28.846643447876],
+    "viewangles": [-22.09460067749, 51.7692527771],
+    "grenade": {
+      "fov": 5.12,
+      "run": 23
+    }
+  },
+  {
+    "name": ["Unnamed", "bank ycc"],
+    "weapon": "weapon_hegrenade",
+    "position": [308.11187744141, -234.55499267578, -24.96875],
+    "viewangles": [-16.042673110962, -11.148731231689],
+    "grenade": {
+      "fov": 5.12,
+      "run": 1
+    }
+  },
+  {
+    "name": ["Unnamed", "bank ycc"],
+    "description": "deep",
+    "weapon": "weapon_molotov",
+    "position": [449.98980712891, -268.54888916016, -24.96875],
+    "viewangles": [-19.599340438843, -11.270133972168],
+    "grenade": {
+      "fov": 5.12,
+      "run": 1
+    },
+    "duck": true
+  },
+  {
+    "name": ["Unnamed", "bank ggp"],
+    "weapon": "weapon_hegrenade",
+    "position": [1722.7242431641, -674.3759765625, -31.58286857605],
+    "viewangles": [-0.91173201799393, -176.54364013672],
+    "grenade": {
+      "run": 39,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "bank dx"],
+    "weapon": "weapon_hegrenade",
+    "position": [1722.7165527344, -674.36450195313, -31.582767486572],
+    "viewangles": [-2.9181432723999, 176.61483764648],
+    "grenade": {
+      "run": 42,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "bank ggp"],
+    "weapon": "weapon_molotov",
+    "position": [1641.0339355469, -700.14587402344, -30.14479637146],
+    "viewangles": [-3.4196841716766, -177.75727844238],
+    "grenade": {
+      "run": 6,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "bank dx"],
+    "weapon": "weapon_molotov",
+    "position": [1641.0756835938, -700.15008544922, -30.145618438721],
+    "viewangles": [-6.6800494194031, 176.05139160156],
+    "grenade": {
+      "run": 6,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "bank dx"],
+    "description": "r",
+    "weapon": "weapon_molotov",
+    "position": [1618.6053466797, -776.40991210938, -29.561496734619],
+    "viewangles": [-5.5515532493591, 166.13032531738],
+    "grenade": {
+      "run": 35,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "bank boost"],
+    "weapon": "weapon_molotov",
+    "position": [1440.0684814453, -613.07550048828, -27.265689849854],
+    "viewangles": [-3.8934900760651, -179.61212158203],
+    "grenade": {
+      "run": 26,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "bank dx"],
+    "description": "r",
+    "weapon": "weapon_molotov",
+    "position": [1049.8160400391, -283.56884765625, -27.193143844604],
+    "viewangles": [0.71845930814743, -169.91876220703],
+    "grenade": {
+      "run": 16,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "bank lt"],
+    "weapon": "weapon_molotov",
+    "position": [1048.1350097656, -426.08792114258, -27.042402267456],
+    "viewangles": [-0.91174054145813, -173.68078613281],
+    "grenade": {
+      "run": 10,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "bank site"],
+    "description": "pochuang",
+    "weapon": "weapon_hegrenade",
+    "position": [278.69924926758, 430.22671508789, -25.158756256104],
+    "viewangles": [-8.0850219726563, -136.25508117676],
+    "grenade": {
+      "run": 2,
+      "recovery_yaw": -90
+    }
+  },
+  {
+    "name": ["Unnamed", "bank baiche"],
+    "weapon": "weapon_molotov",
+    "position": [-1064.9298095703, -209.30592346191, -31.96875],
+    "viewangles": [0.89645892381668, -3.3068311214447],
+    "grenade": {
+      "run": 20,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "bank kache"],
+    "weapon": "weapon_molotov",
+    "position": [-1064.8021240234, -209.39581298828, -31.96875],
+    "viewangles": [-2.489342212677, -10.705471038818],
+    "grenade": {
+      "run": 33,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unname", "bank site"],
+    "weapon": "weapon_molotov",
+    "position": [-631.56268310547, -211.18035888672, -24.96875],
+    "viewangles": [-4.8906755447388, -64.966957092285],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": ["Window(CTRL)", "bank ch"],
+    "description": "r",
+    "weapon": "weapon_molotov",
+    "position": [-551.97479248047, -158.02816772461, -23.96875],
+    "viewangles": [-13.217739105225, -49.340637207031],
+    "duck": true
+  },
+  {
+    "name": ["Unnamed", "bank push"],
+    "weapon": "weapon_molotov",
+    "position": [-551.96148681641, -158.03424072266, -23.96875],
+    "viewangles": [10.762377738953, -50.000869750977]
+  },
+  {
+    "name": ["Back-FBI Car", "bank ycc"],
+    "weapon": "weapon_molotov",
+    "position": [801.08715820313, -340.25067138672, -29.190570831299],
+    "viewangles": [-12.136857032776, 6.5259518623352]
+  },
+  {
+    "name": ["boost", "bank ycc"],
+    "weapon": "weapon_molotov",
+    "position": [443.31671142578, -1872.5092773438, -27.214218139648],
+    "viewangles": [1.409851, 54.157238],
+    "grenade": {
+      "run": 9,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Car66", "bank baiche"],
+    "weapon": "weapon_molotov",
+    "position": [-111.53073120117, -631.45483398438, 211.03125],
+    "viewangles": [0.8683753, 12.8904657]
+  },
+  {
+    "name": ["Bank", "bank site"],
+    "description": "pochuang",
+    "weapon": "weapon_molotov",
+    "position": [1023.8213500977, -456.84936523438, -26.122528076172],
+    "viewangles": [-7.00581264, 172.8958],
+    "grenade": {
+      "run": 22
+    }
+  },
+  {
+    "name": ["Car", "bank baiche"],
+    "weapon": "weapon_molotov",
+    "position": [1618.4541015625, -541.07885742188, -28.720031738281],
+    "viewangles": [-22.8850441, 142.025772]
+  },
+  {
+    "name": ["Trash Molly", "bank ljt"],
+    "description": "fakeduck",
+    "weapon": "weapon_molotov",
+    "position": [1338.646484375, -1417.5797119141, 32.713348388672],
+    "viewangles": [-12.37986, 32.2520981],
+    "grenade": {
+      "strength": 0.5
+    }
+  },
+  {
+    "name": ["White1", "bank l baiche"],
+    "weapon": "weapon_molotov",
+    "position": [-189.88612365723, -926.52178955078, 188.03125],
+    "viewangles": [-5.9076542854309, 40.848983764648],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": ["Unnamed", "bank dx"],
+    "description": "R",
+    "weapon": "weapon_molotov",
+    "position": [618.66076660156, 840.71240234375, -30.764554977417],
+    "viewangles": [-31.724004745483, -134.14782714844],
+    "grenade": {
+      "run": 11
+    }
+  },
+  {
+    "name": ["Unnamed", "bank lt"],
+    "weapon": "weapon_molotov",
+    "position": [521.88171386719, 781.93444824219, 13.361572265625],
+    "viewangles": [-32.934070587158, -130.0558013916],
+    "grenade": {
+      "run": 16
+    }
+  },
+  {
+    "name": ["Unnamed", "bank dx"],
+    "description": "r",
+    "weapon": "weapon_hegrenade",
+    "position": [834.68280029297, 781.25329589844, -30.710266113281],
+    "viewangles": [0.52796649932861, -142.79399108887],
+    "grenade": {
+      "run": 25,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "bank dx"],
+    "description": "r",
+    "weapon": "weapon_hegrenade",
+    "position": [522.05889892578, 778.50134277344, 13.302621841431],
+    "viewangles": [-27.08207321167, -133.02597045898],
+    "grenade": {
+      "run": 15
+    }
+  },
+  {
+    "name": ["Unnamed", "bank dx"],
+    "description": "r",
+    "weapon": "weapon_molotov",
+    "position": [522.04113769531, 778.50506591797, 13.308541297913],
+    "viewangles": [-27.610069274902, -132.98204040527],
+    "grenade": {
+      "run": 15
+    }
+  },
+  {
+    "name": ["Unnamed", "bank lt"],
+    "weapon": "weapon_molotov",
+    "position": [771.73950195313, 747.93249511719, -29.345888137817],
+    "viewangles": [-6.7760257720947, -136.25997924805],
+    "grenade": {
+      "run": 22,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "bank dx"],
+    "description": "r",
+    "weapon": "weapon_molotov",
+    "position": [771.70642089844, 747.85522460938, -29.348453521729],
+    "viewangles": [-32.912029266357, -140.57202148438],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": ["Unnamed", "bank kache"],
+    "description": "l",
+    "weapon": "weapon_molotov",
+    "position": [-711.41473388672, -489.02053833008, 149.03125],
+    "viewangles": [-17.357995986938, 44.659774780273],
+    "grenade": {
+      "run": 2
+    }
+  },
+  {
+    "name": ["Unnamed", "bank baiche"],
+    "weapon": "weapon_hegrenade",
+    "position": [-534.56170654297, -562.26208496094, 188.03125],
+    "viewangles": [-0.097795069217682, 8.7880935668945],
+    "grenade": {
+      "run": 16
+    }
+  },
+  {
+    "name": ["Unnamed", "bank ycc"],
+    "description": "UNSAFE",
+    "weapon": "weapon_molotov",
+    "position": [-395.82653808594, -566.34906005859, 188.03125],
+    "viewangles": [-13.662323951721, 3.1367046833038],
+    "grenade": {
+      "run": 16
+    }
+  },
+  {
+    "name": ["a", "bank dx"],
+    "description": "UNSAFe",
+    "weapon": "weapon_molotov",
+    "position": [1760.2983398438, -514.64123535156, -31.960163116455],
+    "viewangles": [-3.9316012859344, 172.27920532227],
+    "grenade": {
+      "run": 34,
+      "recovery_jump": true,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "bank ycc"],
+    "description": "r",
+    "weapon": "weapon_molotov",
+    "position": [-520.77465820313, -584.15905761719, 188.03125],
+    "viewangles": [17.167743682861, 1.2732112407684],
+    "grenade": {
+      "run": 50,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "bank ycc"],
+    "weapon": "weapon_molotov",
+    "position": [-551.66870117188, -229.72955322266, 148.00006103516],
+    "viewangles": [-14.372005462646, -4.904896736145],
+    "grenade": {
+      "run": 27
+    }
+  },
+  {
+    "name": ["Unnamed", "bank baiche"],
+    "weapon": "weapon_molotov",
+    "position": [-469.95843505859, -237.69331359863, 143.03125],
+    "viewangles": [-4.6594657897949, -5.2306108474731],
+    "grenade": {
+      "run": 3
+    }
+  },
+  {
+    "name": ["Unnamed", "bank baiche"],
+    "weapon": "weapon_hegrenade",
+    "position": [-551.06994628906, -236.40670776367, 147.94454956055],
+    "viewangles": [-4.6596126556396, -4.2521152496338],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": ["Unnamed", "bank ycc"],
+    "weapon": "weapon_molotov",
+    "position": [-23.866973876953, -840.10357666016, 239.03125],
+    "viewangles": [14.526035308838, 10.796516418457],
+    "grenade": {
+      "run": 4,
+      "recovery_yaw": 18,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "bank baiche"],
+    "weapon": "weapon_hegrenade",
+    "position": [-173.51924133301, -897.73919677734, 188.03125],
+    "viewangles": [0.17975568771362, 27.201328277588],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": ["Unnamed", "bank ycc"],
+    "description": "unsafe",
+    "weapon": "weapon_hegrenade",
+    "position": [-251.91825866699, -827.50061035156, 188.03125],
+    "viewangles": [-4.3887243270874, 10.641305923462],
+    "grenade": {
+      "run": 69,
+      "recovery_yaw": -90
+    }
+  },
+  {
+    "name": ["Unnamed", "bank ycc"],
+    "weapon": "weapon_molotov",
+    "position": [-280.54971313477, -832.59887695313, 188.03125],
+    "viewangles": [-7.6454706192017, 8.9754133224487],
+    "grenade": {
+      "run": 6
+    }
+  },
+  {
+    "name": ["Unnamed", "bank ycc"],
+    "description": "l",
+    "weapon": "weapon_molotov",
+    "position": [-15.850004196167, -833.15814208984, 239.03125],
+    "viewangles": [8.6903457641602, 18.303842544556],
+    "grenade": {
+      "run": 1,
+      "recovery_jump": true,
+      "run_speed": true,
+      "delay": 3,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "bank kache"],
+    "weapon": "weapon_molotov",
+    "position": [-469.98657226563, -237.65077209473, 143.03125],
+    "viewangles": [-14.574754714966, -15.716879844666],
+    "grenade": {
+      "run": 2
+    }
+  },
+  {
+    "name": ["Unnamed", "bank l baiche"],
+    "weapon": "weapon_molotov",
+    "position": [-714.15356445313, -371.13970947266, 149.03125],
+    "viewangles": [-12.374531745911, 16.31467628479],
+    "grenade": {
+      "run": 6,
+      "recovery_yaw": -90
+    }
+  },
+  {
+    "name": ["Unnamed", "bank midc"],
+    "weapon": "weapon_molotov",
+    "position": [-520.71148681641, -584.17047119141, 188.03125],
+    "viewangles": [-9.9546747207642, 8.449764251709],
+    "grenade": {
+      "run": 5,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["Unnamed", "bank kache"],
+    "weapon": "weapon_molotov",
+    "position": [-520.67321777344, -584.14624023438, 188.03125],
+    "viewangles": [-10.009674072266, -3.100385427475],
+    "grenade": {
+      "run": 5
+    }
+  },
+  {
+    "name": ["Unnamed", "bank baiche"],
+    "weapon": "weapon_hegrenade",
+    "position": [-422.71313476563, -614.09136962891, 188.03125],
+    "viewangles": [-0.87956410646439, 7.9797787666321],
+    "grenade": {
+      "run": 4
+    }
+  },
+  {
+    "name": ["Unnamed", "bank kache"],
+    "weapon": "weapon_hegrenade",
+    "position": [-422.59451293945, -614.0380859375, 188.03125],
+    "viewangles": [-3.8494343757629, -1.6803399324417],
+    "grenade": {
+      "run": 12
+    }
+  },
+  {
+    "name": ["Unnamed", "bank baiche"],
+    "weapon": "weapon_hegrenade",
+    "position": [-227.81687927246, -901.14459228516, 188.03125],
+    "viewangles": [1.0549708604813, 23.03537940979],
+    "grenade": {
+      "run": 12,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["Unnamed", "bank midc"],
+    "weapon": "weapon_molotov",
+    "position": [-228.9779510498, -908.03790283203, 188.03125],
+    "viewangles": [-3.3450410366058, 24.940086364746],
+    "grenade": {
+      "run": 1,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["Trash", "bank ljt"],
+    "weapon": "weapon_molotov",
+    "position": [-199.0227355957, -692.83703613281, 188.03125],
+    "viewangles": [10.734949111938, -12.14594745636],
+    "grenade": {
+      "run": 28,
+      "recovery_yaw": -163,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "bank l baiche"],
+    "description": "unsafe",
+    "weapon": "weapon_hegrenade",
+    "position": [-515.73284912109, -292.20355224609, 144.14808654785],
+    "viewangles": [-3.5650722980499, 14.629653930664],
+    "grenade": {
+      "run": 17
+    }
+  }
+]

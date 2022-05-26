@@ -1,0 +1,1208 @@
+[
+    {
+      "name": ["Box", "SC CT L"],
+      "weapon": "weapon_molotov",
+      "position": [442.57968139648, 870.21655273438, 128.03125],
+      "viewangles": [-16.114616394043, -97.57251739502]
+    },
+    {
+      "name": ["Ramp", "SC CTMK"],
+      "weapon": "weapon_molotov",
+      "position": [-1220.3541259766, 1014.8131103516, -180.35527038574],
+      "viewangles": [-4.1469502449036, -24.883148193359],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC JTMK"],
+      "weapon": "weapon_molotov",
+      "position": [-564.94934082031, 638.80139160156, -110.81857299805],
+      "viewangles": [4.8618664741516, 135.27728271484],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Tunnel", "SC BDH"],
+      "weapon": "weapon_molotov",
+      "position": [657.56475830078, 1107.9909667969, 32.03125],
+      "viewangles": [-5.9181690216064, 148.0594329834],
+      "grenade": {
+        "run": 8
+      }
+    },
+    {
+      "name": ["Tunnel", "SC TT"],
+      "weapon": "weapon_molotov",
+      "position": [-234.03134155273, 1852.0810546875, 32.03125],
+      "viewangles": [-6.149245262146, -45.364402770996],
+      "grenade": {
+        "run": 13
+      }
+    },
+    {
+      "name": ["Tunnel", "SC BD"],
+      "weapon": "weapon_molotov",
+      "position": [695.97412109375, 1296.2904052734, 32.03125],
+      "viewangles": [-6.3803915977478, -160.1443939209],
+      "grenade": {
+        "run": 9
+      }
+    },
+    {
+      "name": ["Unnamed", "SC ZJC"],
+      "weapon": "weapon_molotov",
+      "position": [-1279.8394775391, 979.46441650391, -167.76040649414],
+      "viewangles": [0.39391377568245, -16.749809265137],
+      "grenade": {
+        "run": 10,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Tuns", "SC CT L"],
+      "weapon": "weapon_hegrenade",
+      "position": [613.71630859375, 961.86138916016, 32.03125],
+      "viewangles": [-20.086462020874, -98.565055847168],
+      "grenade": {
+        "run": 2
+      }
+    },
+    {
+      "name": ["Mid", "SC CT L"],
+      "weapon": "weapon_hegrenade",
+      "position": [-551.07666015625, 512.73626708984, 67.031181335449],
+      "viewangles": [7.811553478241, -34.925258636475],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Mid", "SC CT L"],
+      "weapon": "weapon_hegrenade",
+      "position": [-658.62396240234, 506.23950195313, 67.016830444336],
+      "viewangles": [6.3266310691833, -32.887912750244],
+      "grenade": {
+        "run": 3,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC ZJC"],
+      "weapon": "weapon_hegrenade",
+      "position": [-1279.9191894531, 859.31396484375, -167.13925170898],
+      "viewangles": [-1.4571404457092, -14.968259811401],
+      "grenade": {
+        "run": 27,
+        "recovery_jump": true,
+        "recovery_yaw": 90,
+        "jump": true
+      }
+    },
+    {
+      "name": ["here", "SC CT L"],
+      "weapon": "weapon_hegrenade",
+      "position": [656.63024902344, 805.45764160156, 8.03125],
+      "viewangles": [-23.947103500366, -104.5454788208]
+    },
+    {
+      "name": ["Underpass", "SC CT L"],
+      "weapon": "weapon_molotov",
+      "position": [-895.9931640625, 1018.1971435547, 35.03125],
+      "viewangles": [4.2483606338501, -35.696422576904],
+      "grenade": {
+        "run": 14,
+        "run_yaw": -38,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Back", "SC CT L"],
+      "weapon": "weapon_molotov",
+      "position": [536.78076171875, 812.84497070313, 128.03125],
+      "viewangles": [-41.137424468994, -93.491630554199],
+      "grenade": {
+        "strength": 0.5,
+        "run": 1
+      }
+    },
+    {
+      "name": ["here", "SC CT L"],
+      "weapon": "weapon_molotov",
+      "position": [563.07830810547, 874.93664550781, 129.03060913086],
+      "viewangles": [-15.788867950439, -104.50703430176]
+    },
+    {
+      "name": ["Unnamed", "SC CT L"],
+      "weapon": "weapon_molotov",
+      "position": [251.69822692871, 153.53854370117, 59.320114135742],
+      "viewangles": [-7.6176681518555, -57.795257568359],
+      "grenade": {
+        "fov": 5.12,
+        "recovery_yaw": 90,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Ramp", "SC CT L"],
+      "weapon": "weapon_hegrenade",
+      "position": [-758.72113037109, 786.70965576172, 36.03125],
+      "viewangles": [7.8205275535583, -41.255672454834],
+      "grenade": {
+        "run": 15,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Ramp", "SC CT R"],
+      "weapon": "weapon_molotov",
+      "position": [-192.5140838623, 552.75592041016, -10.649059295654],
+      "viewangles": [-20.8935546875, -37.309852600098],
+      "grenade": {
+        "run": 7
+      }
+    },
+    {
+      "name": ["Ramp", "SC TT"],
+      "weapon": "weapon_molotov",
+      "position": [-192.51683044434, 552.74938964844, -10.648477554321],
+      "viewangles": [-16.236299514771, 22.062589645386]
+    },
+    {
+      "name": ["Ramp", "SC TT"],
+      "weapon": "weapon_hegrenade",
+      "position": [-227.63909912109, 531.01525878906, -17.757427215576],
+      "viewangles": [-13.178354263306, 23.428928375244],
+      "grenade": {
+        "run": 4
+      }
+    },
+    {
+      "name": ["here", "SC CTMK"],
+      "weapon": "weapon_molotov",
+      "position": [-1247.96875, 1154.4630126953, -184.49449157715],
+      "viewangles": [-32.160461425781, -30.957191467285],
+      "grenade": {
+        "run": 1
+      }
+    },
+    {
+      "name": ["here", "SC  CT R"],
+      "weapon": "weapon_molotov",
+      "position": [654.01019287109, 1008.4571533203, 33.03125],
+      "viewangles": [-9.0280570983887, -120.85869598389],
+      "grenade": {
+        "run": 1
+      }
+    },
+    {
+      "name": ["here", "SC TT"],
+      "weapon": "weapon_molotov",
+      "position": [-309.76647949219, 1931.7659912109, 33.093811035156],
+      "viewangles": [-5.4436535835266, -45.4348487854],
+      "grenade": {
+        "run": 22
+      }
+    },
+    {
+      "name": ["here", "sc zjc"],
+      "weapon": "weapon_hegrenade",
+      "position": [-910.35992431641, 970.1240234375, 36.093811035156],
+      "viewangles": [13.721249580383, -35.259700775146],
+      "grenade": {
+        "run": 17,
+        "recovery_jump": true,
+        "recovery_yaw": 90,
+        "jump": true
+      }
+    },
+    {
+      "name": ["here", "SC TT"],
+      "weapon": "weapon_hegrenade",
+      "position": [-179.1764831543, 414.03912353516, 0.09381103515625],
+      "viewangles": [-10.364782333374, 31.167345046997],
+      "grenade": {
+        "run": 5
+      }
+    },
+    {
+      "name": ["here", "SC CT L"],
+      "weapon": "weapon_molotov",
+      "position": [-1303.9683837891, 1095.9691162109, 32.093811035156],
+      "viewangles": [1.756760025024, -36.840308380127],
+      "grenade": {
+        "run": 27,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Ramp", "SC XZH"],
+      "weapon": "weapon_molotov",
+      "position": [-672.615234375, 837.11260986328, 1.4223213195801],
+      "viewangles": [-12.572254180908, 116.58464813232],
+      "grenade": {
+        "run": 14,
+        "recovery_jump": true,
+        "recovery_yaw": 180,
+        "run_yaw": 90
+      }
+    },
+    {
+      "name": ["Street", "SC XD"],
+      "weapon": "weapon_molotov",
+      "position": [748.94372558594, 858.03735351563, 10.14949798584],
+      "viewangles": [-19.435186386108, 179.7906036377],
+      "grenade": {
+        "run": 3
+      }
+    },
+    {
+      "name": ["Tunnel", "SC ZJC"],
+      "weapon": "weapon_molotov",
+      "position": [-269.99319458008, 1454.8209228516, 32.03125],
+      "viewangles": [21.781299591064, -65.232627868652],
+      "grenade": {
+        "run": 8,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC CT L"],
+      "weapon": "weapon_molotov",
+      "position": [594.14916992188, 896.09033203125, 33.03125],
+      "viewangles": [-24.2879658, -105.855942]
+    },
+    {
+      "name": ["Unnamed", "SC CT L"],
+      "weapon": "weapon_hegrenade",
+      "position": [293.14028930664, 237.60331726074, 7.1445503234863],
+      "viewangles": [-32.813041687012, -140.19584655762],
+      "grenade": {
+        "run": 6
+      }
+    },
+    {
+      "name": ["Ramp", "SC CTMK"],
+      "weapon": "weapon_molotov",
+      "position": [-1279.96875, 1039.96875, -170.32931518555],
+      "viewangles": [-2.9261043071747, -26.536506652832],
+      "grenade": {
+        "run": 20,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC XD"],
+      "weapon": "weapon_molotov",
+      "position": [-1105.0405273438, 1528.1610107422, 0.03125],
+      "viewangles": [-24.772901535034, -63.721157073975],
+      "grenade": {
+        "strength": 0.5,
+        "run": 1
+      }
+    },
+    {
+      "name": ["Tunnel", "SC BD R"],
+      "weapon": "weapon_molotov",
+      "position": [686.97143554688, 1113.6489257813, 32.03125],
+      "viewangles": [-8.3609647750854, 156.45890808105],
+      "grenade": {
+        "recovery_yaw": 90
+      }
+    },
+    {
+      "name": ["Tunnel", "SC XP"],
+      "weapon": "weapon_molotov",
+      "position": [669.18524169922, 947.09637451172, 32.03125],
+      "viewangles": [-12.95126914978, -142.8754119873],
+      "grenade": {
+        "run": 1,
+        "run_speed": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC XD"],
+      "weapon": "weapon_hegrenade",
+      "position": [-1105.0339355469, 1528.1538085938, 0.03125],
+      "viewangles": [-24.595895767212, -63.716484069824],
+      "grenade": {
+        "strength": 0.5,
+        "run": 1
+      }
+    },
+    {
+      "name": ["Catwalk", "SC BD R"],
+      "weapon": "weapon_hegrenade",
+      "position": [-906.26599121094, 1287.1721191406, 35.03125],
+      "viewangles": [-3.1239032745361, 25.633375167847],
+      "grenade": {
+        "run": 8
+      }
+    },
+    {
+      "name": ["CT Start", "SC GD"],
+      "weapon": "weapon_molotov",
+      "position": [418.57006835938, -93.777000427246, 128.03125],
+      "viewangles": [11.946093559265, 110.90618896484],
+      "grenade": {
+        "strength": 0.5,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC ZJC"],
+      "weapon": "weapon_molotov",
+      "position": [-74.332138061523, -182.04054260254, 1.1330256462097],
+      "viewangles": [9.7724981307983, 55.110301971436],
+      "grenade": {
+        "run": 6,
+        "recovery_yaw": 90,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC ZJC"],
+      "weapon": "weapon_molotov",
+      "position": [-107.07273101807, -366.27990722656, 4.5865859985352],
+      "viewangles": [18.194129943848, 50.758911132813],
+      "grenade": {
+        "run": 32,
+        "recovery_yaw": 90,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Car", "SC XD"],
+      "weapon": "weapon_molotov",
+      "position": [424.6354675293, 457.21603393555, 7.0291557312012],
+      "viewangles": [-13.564350128174, 161.64518737793],
+      "grenade": {
+        "run": 1
+      }
+    },
+    {
+      "name": ["Cat Tunnel", "SC TT"],
+      "weapon": "weapon_hegrenade",
+      "position": [-602.49377441406, 1361.0354003906, 32.03125],
+      "viewangles": [13.605560302734, -31.796257019043],
+      "grenade": {
+        "run": 24,
+        "recovery_jump": true,
+        "recovery_yaw": -144,
+        "run_yaw": 78,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Cat Tunnel", "SC TT"],
+      "weapon": "weapon_molotov",
+      "position": [-602.41558837891, 1361.083984375, 32.03125],
+      "viewangles": [14.463295936584, -32.125785827637],
+      "grenade": {
+        "run": 24,
+        "recovery_jump": true,
+        "recovery_yaw": -144,
+        "run_yaw": 78,
+        "jump": true
+      }
+    },
+    {
+      "name": ["push long", "SC XD"],
+      "weapon": "weapon_molotov",
+      "position": [131.34930419922, 243.32984924316, 0.03125],
+      "viewangles": [10.247765541077, 144.60737609863],
+      "grenade": {
+        "run": 3,
+        "run_yaw": -90,
+        "jump": true
+      }
+    },
+    {
+      "name": ["push", "SC XD"],
+      "weapon": "weapon_molotov",
+      "position": [418.89929199219, -118.46119689941, 129.03125],
+      "viewangles": [9.055503, 129.640976],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["stairs", "SC JTMK"],
+      "weapon": "weapon_molotov",
+      "position": [-614.15991210938, 529.0361328125, -114.2137298584],
+      "viewangles": [2.344624, 130.217377],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Ramp", "SC XPYT"],
+      "weapon": "weapon_molotov",
+      "position": [686.90301513672, 902.27447509766, 33.03125],
+      "viewangles": [-9.171562, -164.873672]
+    },
+    {
+      "name": ["Unnamed", "SC TT"],
+      "weapon": "weapon_hegrenade",
+      "position": [-224.47416687012, 1840.9653320313, 32.03125],
+      "viewangles": [-6.2919964790344, -45.160186767578],
+      "grenade": {
+        "run": 20
+      }
+    },
+    {
+      "name": ["Unnamed", "SC ZJC"],
+      "weapon": "weapon_hegrenade",
+      "position": [-1279.9658203125, 979.12725830078, -167.71008300781],
+      "viewangles": [-9.0927467346191, -17.404483795166],
+      "grenade": {
+        "run": 23,
+        "delay": 5,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC CT L"],
+      "weapon": "weapon_hegrenade",
+      "position": [-68.579315185547, 760.22290039063, 8.53125],
+      "viewangles": [-1.9637051820755, -68.366134643555],
+      "grenade": {
+        "run": 2,
+        "run_speed": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC ZJC"],
+      "weapon": "weapon_hegrenade",
+      "position": [628.98291015625, 916.19006347656, 32.03125],
+      "viewangles": [-12.847895622253, -151.26306152344],
+      "grenade": {
+        "run": 1,
+        "run_speed": true,
+        "run_yaw": 180
+      }
+    },
+    {
+      "name": ["Pillar", "SC ZJC"],
+      "weapon": "weapon_molotov",
+      "position": [-896.10778808594, 1018.2457275391, 35.03125],
+      "viewangles": [9.5645217895508, -14.072593688965],
+      "grenade": {
+        "run": 23,
+        "run_yaw": -72,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC TTMK"],
+      "weapon": "weapon_hegrenade",
+      "position": [-876.95385742188, 567.78546142578, -171.50927734375],
+      "viewangles": [-24.288007736206, 7.7560043334961],
+      "grenade": {
+        "run": 23,
+        "recovery_yaw": 180
+      }
+    },
+    {
+      "name": ["Unnamed", "SC TTMK"],
+      "weapon": "weapon_hegrenade",
+      "position": [-849.98687744141, 706.46881103516, -166.95207214355],
+      "viewangles": [-27.367994308472, 6.6802039146423],
+      "grenade": {
+        "run": 23,
+        "recovery_yaw": 180
+      }
+    },
+    {
+      "name": ["Unnamed", "SC TT"],
+      "weapon": "weapon_molotov",
+      "position": [-934.44396972656, 544.03094482422, -174.17478942871],
+      "viewangles": [-31.607330322266, 12.578392982483],
+      "grenade": {
+        "run": 23,
+        "recovery_yaw": 180
+      }
+    },
+    {
+      "name": ["Unnamed", "SC XP"],
+      "weapon": "weapon_molotov",
+      "position": [669.17395019531, 947.09436035156, 32.03125],
+      "viewangles": [-9.3960886001587, -147.49781799316]
+    },
+    {
+      "name": ["Unnamed", "SC CT L"],
+      "weapon": "weapon_molotov",
+      "position": [-192.50405883789, 552.74822998047, -10.65330696106],
+      "viewangles": [-7.7702836990356, -46.576374053955],
+      "grenade": {
+        "strength": 0.5,
+        "run": 1,
+        "recovery_yaw": -161,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC ZJC"],
+      "weapon": "weapon_molotov",
+      "position": [-1270.8334960938, 1021.0974121094, -170.92149353027],
+      "viewangles": [-3.0249993801117, -19.449619293213],
+      "grenade": {
+        "run": 4,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC TTMK"],
+      "weapon": "weapon_molotov",
+      "position": [-1279.4914550781, 862.76086425781, -167.09925842285],
+      "viewangles": [-6.3247742652893, -1.5176297426224],
+      "grenade": {
+        "run": 22,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC TT"],
+      "weapon": "weapon_hegrenade",
+      "position": [-307.67340087891, 534.40106201172, -31.562204360962],
+      "viewangles": [-14.024830818176, 21.202417373657],
+      "grenade": {
+        "run": 12
+      }
+    },
+    {
+      "name": ["Unnamed", "SC TT"],
+      "weapon": "weapon_hegrenade",
+      "position": [-856.64251708984, 544.10870361328, -170.04133605957],
+      "viewangles": [-28.160039901733, 13.125414848328],
+      "grenade": {
+        "run": 28
+      }
+    },
+    {
+      "name": ["Unnamed", "SC TT"],
+      "weapon": "weapon_hegrenade",
+      "position": [362.48690795898, -181.2073059082, 104.66711425781],
+      "viewangles": [12.210173606873, 137.28643798828],
+      "grenade": {
+        "run": 21,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC XD"],
+      "weapon": "weapon_molotov",
+      "position": [362.57846069336, -181.21585083008, 104.66711425781],
+      "viewangles": [-14.189853668213, 137.5866394043],
+      "grenade": {
+        "run": 3
+      }
+    },
+    {
+      "name": ["Unnamed", "SC TT"],
+      "weapon": "weapon_molotov",
+      "position": [-364.12991333008, 543.20196533203, -44.142425537109],
+      "viewangles": [-10.989938735962, 47.297252655029],
+      "grenade": {
+        "run": 25
+      }
+    },
+    {
+      "name": ["Unnamed", "SC ZJC"],
+      "weapon": "weapon_hegrenade",
+      "position": [658.81420898438, 906.86822509766, 32.03125],
+      "viewangles": [-10.384957313538, -151.92416381836],
+      "grenade": {
+        "run": 11,
+        "run_speed": true,
+        "run_yaw": 180
+      }
+    },
+    {
+      "name": ["Unnamed", "SC TT"],
+      "weapon": "weapon_molotov",
+      "position": [-230.29765319824, 1784.4591064453, 32.03125],
+      "viewangles": [14.364914894104, -66.038642883301],
+      "grenade": {
+        "run": 18,
+        "recovery_jump": true,
+        "recovery_yaw": -141,
+        "run_yaw": 90,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC CT L"],
+      "weapon": "weapon_hegrenade",
+      "position": [-907.04547119141, 913.44659423828, 35.03125],
+      "viewangles": [7.7721128463745, -41.207984924316],
+      "grenade": {
+        "run": 25,
+        "recovery_jump": true,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC CT L"],
+      "weapon": "weapon_molotov",
+      "position": [-300.15518188477, 527.31561279297, 35.031188964844],
+      "viewangles": [-8.1850442886353, -46.342849731445],
+      "grenade": {
+        "strength": 0.5,
+        "run": 1,
+        "run_speed": true,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC XP"],
+      "weapon": "weapon_hegrenade",
+      "position": [686.91632080078, 935.93157958984, 32.03125],
+      "viewangles": [-6.7175521850586, -157.12493896484]
+    },
+    {
+      "name": ["Unnamed", "SC ZJC"],
+      "weapon": "weapon_hegrenade",
+      "position": [-178.77133178711, 1311.3909912109, 32.03125],
+      "viewangles": [5.2156653404236, -92.347633361816],
+      "grenade": {
+        "run": 8,
+        "recovery_yaw": 180,
+        "run_yaw": 90
+      }
+    },
+    {
+      "name": ["Unnamed", "SC XP"],
+      "weapon": "weapon_hegrenade",
+      "position": [-126.39892578125, 1216.8194580078, 32.03125],
+      "viewangles": [7.4284844398499, -61.824737548828],
+      "grenade": {
+        "run": 9,
+        "recovery_jump": true,
+        "recovery_yaw": -61
+      }
+    },
+    {
+      "name": ["Unnamed", "SC ZJC"],
+      "weapon": "weapon_hegrenade",
+      "position": [-126.39841461182, 1216.1466064453, 32.03125],
+      "viewangles": [8.6010894775391, -98.129333496094],
+      "grenade": {
+        "run": 10,
+        "recovery_jump": true,
+        "recovery_yaw": -138,
+        "run_yaw": 90
+      }
+    },
+    {
+      "name": ["Unnamed", "SC TT"],
+      "weapon": "weapon_molotov",
+      "position": [388.95648193359, -138.60668945313, 128.03125],
+      "viewangles": [12.034832000732, 75.30354309082],
+      "grenade": {
+        "run": 1,
+        "run_speed": true,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC TT"],
+      "weapon": "weapon_hegrenade",
+      "position": [394.96887207031, -140.22409057617, 128.03125],
+      "viewangles": [9.9449977874756, 76.68968963623],
+      "grenade": {
+        "run": 7,
+        "delay": 5,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC TT"],
+      "weapon": "weapon_hegrenade",
+      "position": [44.031383514404, 23.194076538086, 0.34540176391602],
+      "viewangles": [-12.299010276794, 57.344951629639],
+      "grenade": {
+        "run": 40
+      }
+    },
+    {
+      "name": ["Unnamed", "SC TT"],
+      "weapon": "weapon_molotov",
+      "position": [44.031242370605, 23.193849563599, 0.34540176391602],
+      "viewangles": [-12.299010276794, 57.344951629639],
+      "grenade": {
+        "run": 35
+      }
+    },
+    {
+      "name": ["Unnamed", "SC TT"],
+      "weapon": "weapon_molotov",
+      "position": [-116.4697265625, -243.41630554199, 8.8669204711914],
+      "viewangles": [-14.609039306641, 58.049186706543],
+      "grenade": {
+        "run": 22
+      }
+    },
+    {
+      "name": ["Unnamed", "SC TT"],
+      "weapon": "weapon_hegrenade",
+      "position": [-116.47206878662, -243.4200592041, 8.8669204711914],
+      "viewangles": [-14.609039306641, 58.049186706543],
+      "grenade": {
+        "run": 22
+      }
+    },
+    {
+      "name": ["Unnamed", "SC ZJC"],
+      "weapon": "weapon_hegrenade",
+      "position": [475.60488891602, -143.19306945801, 128.03125],
+      "viewangles": [13.792957305908, 82.719329833984],
+      "grenade": {
+        "run": 1,
+        "recovery_jump": true,
+        "run_speed": true,
+        "recovery_yaw": 90,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC TT"],
+      "weapon": "weapon_molotov",
+      "position": [475.7038269043, -143.28500366211, 128.03125],
+      "viewangles": [12.622547149658, 82.657707214355],
+      "grenade": {
+        "recovery_jump": true,
+        "recovery_yaw": 90,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC XD"],
+      "weapon": "weapon_molotov",
+      "position": [388.74667358398, -183.11067199707, 104.66711425781],
+      "viewangles": [10.232201576233, 141.00759887695],
+      "grenade": {
+        "run": 8,
+        "recovery_jump": true,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC XP"],
+      "weapon": "weapon_molotov",
+      "position": [388.93081665039, -138.64082336426, 128.03125],
+      "viewangles": [-11.41801738739, 139.5471496582]
+    },
+    {
+      "name": ["Unnamed", "SC XD"],
+      "weapon": "weapon_hegrenade",
+      "position": [476.21115112305, -143.46893310547, 128.03125],
+      "viewangles": [13.380388259888, 142.81837463379],
+      "grenade": {
+        "run": 19,
+        "recovery_jump": true,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC ZJC"],
+      "weapon": "weapon_hegrenade",
+      "position": [476.16473388672, -143.34939575195, 128.03125],
+      "viewangles": [13.996391296387, 132.79335021973],
+      "grenade": {
+        "run": 6,
+        "recovery_jump": true,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC ZJC"],
+      "weapon": "weapon_hegrenade",
+      "position": [476.09573364258, -143.24745178223, 128.03125],
+      "viewangles": [10.159581184387, 133.94175720215],
+      "grenade": {
+        "strength": 0.5,
+        "run": 7,
+        "recovery_jump": true,
+        "delay": 6,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC ZJC"],
+      "weapon": "weapon_hegrenade",
+      "position": [476.14025878906, -143.31553649902, 128.03125],
+      "viewangles": [17.553777694702, 133.9483795166],
+      "grenade": {
+        "strength": 0.5,
+        "run": 2,
+        "recovery_jump": true,
+        "delay": 1,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC XP"],
+      "weapon": "weapon_molotov",
+      "position": [476.03604125977, -143.16024780273, 128.03125],
+      "viewangles": [9.0617828369141, 128.32530212402],
+      "grenade": {
+        "strength": 0.5,
+        "run": 6,
+        "recovery_jump": true,
+        "delay": 6,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC XP"],
+      "weapon": "weapon_molotov",
+      "position": [476.13809204102, -143.31330871582, 128.03125],
+      "viewangles": [17.553777694702, 133.9483795166],
+      "grenade": {
+        "strength": 0.5,
+        "run": 2,
+        "recovery_jump": true,
+        "delay": 1,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "CT ZJC"],
+      "weapon": "weapon_hegrenade",
+      "position": [489.04022216797, -135.93566894531, 128.03125],
+      "viewangles": [10.223389625549, 117.29006958008],
+      "grenade": {
+        "strength": 0.5,
+        "run": 4,
+        "recovery_jump": true,
+        "delay": 5,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC ZJC"],
+      "weapon": "weapon_hegrenade",
+      "position": [488.93975830078, -135.85966491699, 128.03125],
+      "viewangles": [11.3101978302, 122.71532440186],
+      "grenade": {
+        "strength": 0.5,
+        "run": 9,
+        "recovery_jump": true,
+        "delay": 5,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC GD"],
+      "weapon": "weapon_molotov",
+      "position": [488.96337890625, -135.86981201172, 128.03125],
+      "viewangles": [1.1593934297562, 112.64366912842],
+      "grenade": {
+        "strength": 0.5,
+        "run": 16,
+        "recovery_jump": true,
+        "delay": 5,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC XD"],
+      "weapon": "weapon_hegrenade",
+      "position": [12.000467300415, 316.58612060547, 6.1890106201172],
+      "viewangles": [12.062553405762, 164.25932312012],
+      "grenade": {
+        "run": 13,
+        "recovery_jump": true,
+        "delay": 1,
+        "run_yaw": -90,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC XD"],
+      "weapon": "weapon_molotov",
+      "position": [12.006948471069, 316.59878540039, 6.1889953613281],
+      "viewangles": [11.083559036255, 164.17362976074],
+      "grenade": {
+        "run": 13,
+        "recovery_jump": true,
+        "delay": 1,
+        "run_yaw": -90,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC TTMK"],
+      "weapon": "weapon_molotov",
+      "position": [-861.99133300781, 966.49670410156, 0.03125],
+      "viewangles": [4.0918407440186, 21.037986755371],
+      "grenade": {
+        "run": 33,
+        "recovery_jump": true,
+        "run_yaw": -81,
+        "jump": true
+      }
+    },
+    {
+      "name": ["ramp", "SC CTMK"],
+      "weapon": "weapon_molotov",
+      "position": [-1279.96875, 987.16735839844, -167.75024414063],
+      "viewangles": [-4.3450555801392, -24.35479927063],
+      "grenade": {
+        "run": 2,
+        "jump": true
+      }
+    },
+    {
+      "name": ["site", "SC ZJC"],
+      "weapon": "weapon_molotov",
+      "position": [141.73490905762, 1035.6031494141, 32.03125],
+      "viewangles": [11.23767375946, -135.21960449219]
+    },
+    {
+      "name": ["Unnamed", "SC ZJC"],
+      "weapon": "weapon_hegrenade",
+      "position": [-338.79977416992, 1449.6273193359, 32.03125],
+      "viewangles": [-3.9490134716034, -57.973552703857]
+    },
+    {
+      "name": ["Unnamed", "SC XD"],
+      "weapon": "weapon_molotov",
+      "position": [674.46374511719, -605.07263183594, 73.950180053711],
+      "viewangles": [5.7223906517029, 138.40887451172],
+      "grenade": {
+        "run": 29,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC XD"],
+      "weapon": "weapon_molotov",
+      "position": [315.42242431641, -677.65380859375, 6.26708984375],
+      "viewangles": [1.8664849996567, 127.60466003418],
+      "grenade": {
+        "run": 21,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC TT"],
+      "weapon": "weapon_hegrenade",
+      "position": [-364.12991333008, 543.20196533203, -44.142425537109],
+      "viewangles": [-10.989938735962, 47.297252655029],
+      "grenade": {
+        "run": 25
+      }
+    },
+    {
+      "name": ["Unnamed", "SC ZJC"],
+      "weapon": "weapon_molotov",
+      "position": [-162.43147277832, 1058.7161865234, 32.03125],
+      "viewangles": [3.8752150535583, -37.657764434814],
+      "grenade": {
+        "run": 2
+      }
+    },
+    {
+      "name": ["Unnamed", "SC ZJC"],
+      "weapon": "weapon_hegrenade",
+      "position": [-151.55014038086, 1046.7537841797, 32.03125],
+      "viewangles": [22.847852706909, -36.36893081665],
+      "grenade": {
+        "run": 6
+      }
+    },
+    {
+      "name": ["Tunnel", "SC ZJC"],
+      "weapon": "weapon_molotov",
+      "position": [-338.78967285156, 1449.6011962891, 32.03125],
+      "viewangles": [-3.0138702392578, -57.816570281982]
+    },
+    {
+      "name": ["Unnamed", "SC XPYT"],
+      "weapon": "weapon_molotov",
+      "position": [131.35200500488, 243.33427429199, 0.03125],
+      "viewangles": [11.681576728821, 128.23805236816],
+      "grenade": {
+        "run": 15,
+        "recovery_yaw": 90,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC XPYT"],
+      "weapon": "weapon_hegrenade",
+      "position": [131.34217834473, 243.33987426758, 0.03125],
+      "viewangles": [3.8143582344055, 134.16926574707],
+      "grenade": {
+        "run": 15,
+        "recovery_jump": true,
+        "recovery_yaw": 90
+      }
+    },
+    {
+      "name": ["Street", "SC GD"],
+      "weapon": "weapon_molotov",
+      "position": [-1279.8267822266, 866.50787353516, -166.75982666016],
+      "viewangles": [-27.030391693115, -0.4632396697998],
+      "grenade": {
+        "run": 1,
+        "run_speed": true
+      }
+    },
+    {
+      "name": ["street", "SC XD"],
+      "weapon": "weapon_molotov",
+      "position": [-1105.037109375, 1528.1418457031, 0.03125],
+      "viewangles": [-19.022453308105, -65.645790100098]
+    },
+    {
+      "name": ["Unnamed", "SC XD"],
+      "weapon": "weapon_hegrenade",
+      "position": [-1104.640625, 1527.3322753906, 0.03125],
+      "viewangles": [-17.889492034912, -64.787666320801],
+      "grenade": {
+        "run": 8,
+        "run_speed": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC CT L"],
+      "weapon": "weapon_molotov",
+      "position": [-672.58117675781, 837.09399414063, 1.409969329834],
+      "viewangles": [-23.607471466064, -46.409023284912],
+      "grenade": {
+        "run": 1
+      }
+    },
+    {
+      "name": ["Unnamed", "SC CTMK"],
+      "weapon": "weapon_molotov",
+      "position": [-896.03350830078, 1018.164855957, 35.03125],
+      "viewangles": [5.1040463447571, -51.030002593994],
+      "grenade": {
+        "run": 16,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC ZJC"],
+      "weapon": "weapon_molotov",
+      "position": [-861.97918701172, 966.57824707031, 0.03125],
+      "viewangles": [6.2478475570679, -16.824003219604],
+      "grenade": {
+        "run": 16,
+        "run_yaw": -76,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC CTMK"],
+      "weapon": "weapon_molotov",
+      "position": [-861.97351074219, 966.62347412109, 0.03125],
+      "viewangles": [16.719863891602, -14.272010803223],
+      "grenade": {
+        "run": 16,
+        "run_yaw": -90,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC XP"],
+      "weapon": "weapon_molotov",
+      "position": [-861.97192382813, 966.37854003906, 0.03125],
+      "viewangles": [-11.704140663147, -57.546016693115],
+      "grenade": {
+        "run": 5,
+        "recovery_jump": true,
+        "recovery_yaw": 90
+      }
+    },
+    {
+      "name": ["Unnamed", "SC TTMK"],
+      "weapon": "weapon_molotov",
+      "position": [-672.61114501953, 837.11901855469, 1.4231910705566],
+      "viewangles": [-15.356104850769, 1.2819992303848],
+      "grenade": {
+        "run": 7
+      }
+    },
+    {
+      "name": ["Unnamed", "SC TTMK"],
+      "weapon": "weapon_molotov",
+      "position": [-364.17141723633, 543.21630859375, -44.152164459229],
+      "viewangles": [-22.099939346313, 18.411264419556]
+    },
+    {
+      "name": ["Unnamed", "SC CTMK"],
+      "weapon": "weapon_molotov",
+      "position": [-364.16967773438, 543.22015380859, -44.152164459229],
+      "viewangles": [-20.669946670532, -15.974739074707],
+      "grenade": {
+        "run": 3
+      },
+      "duck": true
+    },
+    {
+      "name": ["Unnamed", "sc ttmk"],
+      "weapon": "weapon_molotov",
+      "position": [-300.12307739258, 527.31555175781, 35.031188964844],
+      "viewangles": [-16.533939361572, 21.667430877686],
+      "duck": true
+    },
+    {
+      "name": ["Unnamed", "SC JTMK"],
+      "weapon": "weapon_molotov",
+      "position": [-300.12875366211, 527.3291015625, 35.031188964844],
+      "viewangles": [8.964056968689, 144.36131286621],
+      "grenade": {
+        "run": 1,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Unnamed", "SC XP"],
+      "weapon": "weapon_molotov",
+      "position": [-162.45141601563, 1058.7644042969, 32.03125],
+      "viewangles": [20.349460601807, -32.64892578125],
+      "grenade": {
+        "run": 5
+      }
+    },
+    {
+      "name": ["Unnamed", "sc xp"],
+      "weapon": "weapon_hegrenade",
+      "position": [-151.54965209961, 1046.7561035156, 32.03125],
+      "viewangles": [19.667465209961, -30.668924331665],
+      "grenade": {
+        "run": 5
+      }
+    },
+    {
+      "name": ["Unnamed", "SC ZJC"],
+      "weapon": "weapon_molotov",
+      "position": [-934.38854980469, 544.04943847656, -174.18441772461],
+      "viewangles": [-20.680509567261, 3.0710971355438],
+      "grenade": {
+        "run": 5
+      }
+    },
+    {
+      "name": ["Unnamed", "SC GD"],
+      "weapon": "weapon_molotov",
+      "position": [-934.38653564453, 544.04864501953, -174.18441772461],
+      "viewangles": [-27.610492706299, 20.891092300415]
+    },
+    {
+      "name": ["Unnamed", "SC XZH"],
+      "weapon": "weapon_molotov",
+      "position": [-564.96728515625, 638.88061523438, -110.8232421875],
+      "viewangles": [-1.3421318531036, 136.53144836426],
+      "grenade": {
+        "run": 1,
+        "jump": true
+      }
+    }
+  ]
