@@ -1,6 +1,6 @@
 {
-	"name": "CHINAHVH CNHELPER",
-	"description": "CHINAHVH CNHELPER",
-	"update_timestamp": 1647246700,
-	"url_format": "https://gitee.com/harenk1337/gshelper/raw/master/cnlocations/cnhelper/%map%.json"
+	"name": "Kerwins Helpers",
+	"description": "Kerwins Helpers",
+	"update_timestamp": 1653579401,
+	"url_format": "https://raw.githubusercontent.com/kerwinaa/gshelper/main/locations/%map%.json"
 }
